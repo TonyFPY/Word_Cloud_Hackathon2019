@@ -1,2 +1,6 @@
 
+*.md linguist-language=Python
+*.js linguist-language=python
+*.css linguist-language=python
 *.html linguist-language=python
+*.rtf linguist-language=python
